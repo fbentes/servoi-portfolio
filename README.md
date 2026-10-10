@@ -50,6 +50,15 @@ Capturas do aplicativo Flutter rodando contra uma API de demonstração, com dad
 
 Em desenvolvimento ativo. O backend está mais avançado que os clientes: o aplicativo móvel entrega parte das telas e a aplicação web ainda será construída. Este material descreve a engenharia, e nem todos os recursos do produto estão concluídos.
 
+## Propriedade intelectual
+
+O **Servoi-app** (repositórios `servoi-backend`, `servoi-mobile` e `servoi-web`) foi depositado no **Instituto Nacional da Propriedade Industrial (INPI)** como programa de computador (Lei nº 9.609/1998):
+
+- **Processo INPI:** `512026009069-5` (protocolo `870260104986`, depositado em 10/10/2026)
+- **Versão registrada:** 1.0.0, tag `inpi-v1.0.0` nos repositórios de código
+- **Hash de integridade (SHA-512) do pacote com os três repositórios:** `d3038644788c50f24a1eaea58919fd75d3ad312214273f4deeee37eff1850a6f19af53a2d3c79d4483f8d13525d10b420037f9e0ed86872ee82e775c181c859a`
+- **Consulta pública:** [busca.inpi.gov.br](https://busca.inpi.gov.br/pePI/), em Pesquisa Básica > Programa de Computador
+
 ---
 
 © 2026 Fábio A. C. Bentes. Todos os direitos reservados. Veja [LICENSE](LICENSE).
